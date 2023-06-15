@@ -1,4 +1,8 @@
+docker
 python
 java
 oracle
+<<<<<<< HEAD
 aws azure
+=======
+>>>>>>> 86364734f83ae80fee697976a38224a139c56a7f
