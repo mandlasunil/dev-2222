@@ -4,3 +4,4 @@ java
 oracle
 vbasdnbvnsd
 aws devops
+azure
